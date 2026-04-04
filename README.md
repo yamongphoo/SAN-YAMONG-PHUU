@@ -1,6 +1,8 @@
 # Hello World!
 # I'm Yamong👋 
 
+**Warning : This is not an updated information . It is improved every seconds.....**
+
 ### 🛡️ Cybersecurity Analyst | BE.Electronics
 
 I am a technical professional with a background in **Electronic Communication Engineering**, currently specializing in **Security Engineering** and **Security Operations**. My work focuses on bridging the gap between software development and robust infrastructure monitoring.
@@ -18,8 +20,7 @@ I am a technical professional with a background in **Electronic Communication En
 * **Languages:** C#, SQL, KQL (Kusto Query Language), PowerShell.
 * **Security Tools:** Wazuh, Microsoft Sentinel, Sysmon, Nmap, Wireshark.
 * **Frameworks:** .NET 8 / ASP.NET Core MVC, Entity Framework.
-* **Infrastructure:** Windows Server Administration, Linux (Ubuntu/Debian), Docker.
-
+* **Infrastructure:** Windows Server Administration, Linux (Ubuntu/Debian)
 ---
 
 ### 📂 Featured Projects
@@ -47,12 +48,15 @@ A Doctor-Patient management dashboard built with **ASP.NET Core**.
 * **Advanced Threat Modeling:** Deep-diving into recent CVEs (e.g., CVE-2025-53724) to understand exploit chains.
 * **German Language:** Basic proficiency in preparation.
 
+### 🌟Certification & Rewards
+* ***[LFS101] [(https://www.credly.com/badges/28b1297f-466b-4aa5-8e8f-9d4908cfa06f)](https://www.credly.com/badges/28b1297f-466b-4aa5-8e8f-9d4908cfa06f)
+* ***[Comptia Security+] [(https://www.credly.com/badges/a424dcf9-e24b-4105-acdc-fc36ab5a1f01/linked_in_profile)](https://www.credly.com/badges/a424dcf9-e24b-4105-acdc-fc36ab5a1f01/linked_in_profile)
+* ***[Cisco] [(https://www.credly.com/badges/6b68e4d1-c494-4e9a-ab6c-0ad173559537/public_url))](https://www.credly.com/badges/6b68e4d1-c494-4e9a-ab6c-0ad173559537/public_url)
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **Email:** [Your Professional Email]
-
+* **LinkedIn:** [www.linkedin.com/in/yamonemyname]
+* **Email:** [evermong2812@gmail.com] [sanyamongphoo@ptu.edu.mm]
 ---
 
-> *"Security is not a product, but a process." — Bruce Schneier*
+> *"Data is plentiful; intelligence is the split-second extraction of signal from noise."*
