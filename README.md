@@ -51,7 +51,7 @@ A Doctor-Patient management dashboard built with **ASP.NET Core**.
 * Design of a Transistor-Based Fluid Detection and Level Indicator Circuit
 * Design and Implementation of a Secure Small-Scale Enterprise Network
 
-#### skills
+#### **Skills**
 🌟 Advanced Mathematic and Programming skill (C,C++, Assembly,Python, JavaScript ,HTML)
 🌟 Extensive Knowledge of Hardware Components
 🌟 Expertise in deploying and managing Wazuh and ELK Stack for centralized log analysis, custom rule creation, and security     monitoring.
