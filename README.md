@@ -41,6 +41,22 @@ A Doctor-Patient management dashboard built with **ASP.NET Core**.
 * Implemented **AES encryption** for sensitive patient data.
 * Configured **Role-Based Access Control (RBAC)** to ensure data privacy and integrity.
 
+### Educational Projects 🚩
+* Vulnerability Accessment of A Small Network (Cybersecurity)
+* Project Scheduling and Resource Allocation (Project Management)
+* Doctor-Patient Appointment System (Web-Database Project)
+* Analysis of Microstrip Patch Antenna 
+* State Variable Feedback Design by Using Matlab
+* Intelligent Binary Sensor Monitoring System with Integrated LCD Interface
+* Design of a Transistor-Based Fluid Detection and Level Indicator Circuit
+* Design and Implementation of a Secure Small-Scale Enterprise Network
+
+#### skills
+🌟 Advanced Mathematic and Programming skill (C,C++, Assembly,Python, JavaScript ,HTML)
+🌟 Extensive Knowledge of Hardware Components
+🌟 Expertise in deploying and managing Wazuh and ELK Stack for centralized log analysis, custom rule creation, and security     monitoring.
+🌟 Experienced in incident response and threat hunting, utilizing Linux-based tools to identify indicators of compromise       (IOCs) and malicious processes
+🌟 Strong foundational knowledge of Data Structures and Algorithms, applied to optimizing search queries and data ingestion     within SIEM environments.
 ---
 
 ### 📈 Currently Learning & Researching
